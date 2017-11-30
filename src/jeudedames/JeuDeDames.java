@@ -15,7 +15,7 @@ public class JeuDeDames {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //Nique ta mere
+        //Nique ta mere fdp
     }
     
 }
